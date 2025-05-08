@@ -1,4 +1,4 @@
-import './css/bulma2.css';
+
 function Header(){
     return (
         <>
